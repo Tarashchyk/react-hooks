@@ -4,4 +4,11 @@
 .navbar-brand {
   color: rgba(16, 212, 58, 0.637) !important;
   font-size: 2rem;
+  font-family: "Titillium Web", sans-serif;
+}
+.user-pic {
+  height: 26px;
+  border-radius: 50px;
+  float: left;
+  margin-right: 5px;
 }
